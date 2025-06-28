@@ -1,0 +1,4 @@
+.parcel-cache/
+git rm -r --cached react/my-own-react-app/.parcel-cache
+
+
